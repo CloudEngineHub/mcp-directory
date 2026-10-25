@@ -58,6 +58,6 @@ open [http://localhost:3000](http://localhost:3000) in your browser
 
 ## About the author
 
-- [idoubi](https://bento.me/idoubi)
-- [Follow me on Twitter](https://x.com/idoubicv)
+- [idoubi](https://idoubi.ai)
+- [Follow me on Twitter](https://x.com/idoubiai)
 - [Buy me a coffee](https://www.buymeacoffee.com/idoubi)
